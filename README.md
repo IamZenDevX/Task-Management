@@ -36,7 +36,7 @@ This Task Management Project is designed to help users efficiently manage their 
 <h2 align="left">Testing Tools Used:</h2>
 
 
-### **Library:**
+<h2 align="left">Library:</h2>
 
 - bcryptjs
 - connect-mongo
