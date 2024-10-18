@@ -84,8 +84,9 @@ The platform will require a relational database to manage User And Tasks . Below
 
 <h3 align="left">Development with Zendevx:</h3>
 
-![image](https://github.com/user-attachments/assets/f05ad08e-b577-43fd-b0b2-3a6532e532e8)
 
+
+![! image png (httpsprod-files-secure s3 us-west-2 amazonaws com3f690236-03bd-47db-ac0f-28b089483950a8051494-5e7f-46b0-8b4f-4947637c4fcdimage png) (1900 x 1080 px) (1080 x 1350 px)](https://github.com/user-attachments/assets/d4c5a8f6-cb2d-4519-9ed9-c41273b75170)
 
 
 # **🐦 Connect with me:**
