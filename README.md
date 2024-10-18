@@ -15,7 +15,7 @@ This Task Management Project is designed to help users efficiently manage their 
 
 ## **Available API:**
 
-| **Name     ** | **HTTP Method** | **Endpoint** | **Requirements** |
+| **Name** | **HTTP Method** | **Endpoint** | **Requirements** |
 | --- | --- | --- | --- |
 | **Register User** | POST | http://localhost:4000/user/registration | Request Body: email`: string, password: string` |
 | **Login User** | POST | http://localhost:3000/user/login | Request Body: email`: string, password: string` |
