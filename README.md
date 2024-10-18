@@ -81,9 +81,10 @@ The platform will require a relational database to manage User And Tasks . Below
 [**Checkout the  Demo Video**](https://www.notion.so/NodeJS-Task-Management-c766d777f45f4ef3a850a8ea07e598ee?pvs=21) 
 
 # **🐦 Follow Me:**
-[img icons8](https://github.com/user-attachments/assets/0d5416fe-13b0-45b8-aa4a-9372d0e0c5ed) Linkedin
+[img icons8](https://github.com/user-attachments/assets/0d5416fe-13b0-45b8-aa4a-9372d0e0c5ed) 
 
-           
+     ![download (1)](https://github.com/user-attachments/assets/3b5bc756-7ef3-4372-8869-49416ce6ad2c)
+      
 
 
            YouTube
