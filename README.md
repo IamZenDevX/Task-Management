@@ -28,10 +28,8 @@ This Task Management Project is designed to help users efficiently manage their 
 | Get Task By UserID | GET | http://localhost:3000/task/gettask/UserID/:UserID | Request Params:  userid`:string`   |
 
 <h2 align="left">Tools Used:</h2>
-<a href="#" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7afc3dbb-2091-4ecf-a2ca-f14315be7609" alt="ZenDevX" height="auto" width="auto" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ab866b31-3f5a-4ef3-9d49-bf5f0a25f763" alt="ZenDevX" height="auto" width="auto" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/user-attachments/assets/54b94455-7a97-4b9b-95c4-1834f7e7cdfe" alt="ZenDevX" height="auto" width="auto" /></a>
 
+![Github Images](https://github.com/user-attachments/assets/6682065d-26dd-4d3f-81e1-5b4952a0715b)
 
 
 
