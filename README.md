@@ -28,8 +28,12 @@ This Task Management Project is designed to help users efficiently manage their 
 | Get Task By UserID | GET | http://localhost:3000/task/gettask/UserID/:UserID | Request Params:  userid`:string`   |
 
 <h2 align="left">Tools Used:</h2>
+<a href="#" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7afc3dbb-2091-4ecf-a2ca-f14315be7609" alt="ZenDevX" height="auto" width="auto" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ab866b31-3f5a-4ef3-9d49-bf5f0a25f763" alt="ZenDevX" height="auto" width="auto" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/user-attachments/assets/54b94455-7a97-4b9b-95c4-1834f7e7cdfe" alt="ZenDevX" height="auto" width="auto" /></a>
 
-![Github Images](https://github.com/user-attachments/assets/3f194c71-494c-4df8-8a10-b97bc2b1bcef)
+
+
 
 <h2 align="left">Testing Tools Used:</h2>
 
@@ -97,7 +101,6 @@ The platform will require a relational database to manage User And Tasks . Below
 <a href="https://www.youtube.com/@zendevx" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1beefdd6-fa17-49c9-bde7-e8f30f539b96" alt="ZenDevX" height="50" width="50" /></a>
 <a href="https://www.youtube.com/@zendevx" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f1eeb865-3d23-407a-9a2b-d76b4e85c6dd" alt="ZenDevX" height="50" width="50" /></a>
 </p>
-
 
 
 I hope you like the project. Thanks for reading :)
