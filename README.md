@@ -85,9 +85,10 @@ The platform will require a relational database to manage User And Tasks . Below
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/ashutosh2506" target="blank"><img align="center" src="https://github.com/user-attachments/assets/9a6080ca-4265-43e5-8652-9454651970a9" alt="ashutosh2506" height="50" width="50" /></a>
-<a href="https://www.leetcode.com/ash250604" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1beefdd6-fa17-49c9-bde7-e8f30f539b96" alt="ash250604" height="50" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashutoshrajput_" target="blank"><img align="center" src="https://www.google.com/imgres?q=twitter%20logo%20x&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fnew-2023-twitter-logo-x-icon-design_1017-45418.jpg%3Fsize%3D338%26ext%3Djpg%26ga%3DGA1.1.2113030492.1729123200%26semt%3Dais_hybrid&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftwitter-x-logo&docid=9DmNA1_EbeZKGM&tbnid=QaVS-hYafpd60M&vet=12ahUKEwi78pfD2JeJAxUWi2MGHf4gBiYQM3oECBsQAA..i&w=338&h=338&hcb=2&ved=2ahUKEwi78pfD2JeJAxUWi2MGHf4gBiYQM3oECBsQAA" alt="ashutoshrajput_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/zendevx/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/9a6080ca-4265-43e5-8652-9454651970a9" alt="ashutosh2506" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@zendevx" target="blank"><img align="center" src="https://github.com/user-attachments/assets/069b0e64-9991-49e5-82f0-38ceb62073e7" alt="ashutoshrajput_" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@zendevx" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1beefdd6-fa17-49c9-bde7-e8f30f539b96" alt="ash250604" height="50" width="50" /></a>
+
 </p>
 
 
