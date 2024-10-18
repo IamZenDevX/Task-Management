@@ -88,7 +88,7 @@ The platform will require a relational database to manage User And Tasks . Below
 
 
 
-# **🐦 Connect with me:**
+<h2 align="left">🐦 Connect with me:</h2>
          
  
 <p align="left">
