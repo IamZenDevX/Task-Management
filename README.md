@@ -13,9 +13,9 @@ This Task Management Project is designed to help users efficiently manage their 
 - **Delete Tasks**: Users can remove tasks they no longer need.
 - **Task Status**: Each task can be marked as "Open," "In Progress," "Complete," or "Cancelled."
 
-## **AVAILABLE API:**
+## **Available API:**
 
-| **Name** | **HTTP Method** | **Endpoint** | **Requirements** |
+| **Name     ** | **HTTP Method** | **Endpoint** | **Requirements** |
 | --- | --- | --- | --- |
 | **Register User** | POST | http://localhost:4000/user/registration | Request Body: email`: string, password: string` |
 | **Login User** | POST | http://localhost:3000/user/login | Request Body: email`: string, password: string` |
