@@ -27,7 +27,8 @@ This Task Management Project is designed to help users efficiently manage their 
 | Delete Task | DELETE | http://localhost:3000/task/deletetask/id/:id | Request Params:  `id:string`   |
 | Get Task By UserID | GET | http://localhost:3000/task/gettask/UserID/:UserID | Request Params:  userid`:string`   |
 
-# **Tools Used:**
+<h3 align="left">Tools Used:</h3>
+
 
 ![Tecnologies github images](https://github.com/user-attachments/assets/8fd191b9-0882-43b5-ae2a-c2023a2a0c1e)
 
