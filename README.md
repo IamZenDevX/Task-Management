@@ -29,8 +29,9 @@ This Task Management Project is designed to help users efficiently manage their 
 
 # **Tools Used:**
 
+![Tecnologies github images](https://github.com/user-attachments/assets/8fd191b9-0882-43b5-ae2a-c2023a2a0c1e)
 
-![! image png (httpsprod-files-secure s3 us-west-2 amazonaws com3f690236-03bd-47db-ac0f-28b089483950a8051494-5e7f-46b0-8b4f-4947637c4fcdimage png) (1900 x 1080 px)](https://github.com/user-attachments/assets/dc727c11-425d-46e2-8641-a29c6e4793bb)
+
 
 
 
