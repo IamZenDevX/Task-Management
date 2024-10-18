@@ -29,7 +29,8 @@ This Task Management Project is designed to help users efficiently manage their 
 
 # **Tools Used:**
 ![NodeJS_Logo](https://github.com/user-attachments/assets/62d85faa-d4f1-4540-9a25-b67674601493)
-![Express js](https://github.com/user-attachments/assets/4ce32579-0f69-4a22-9c98-68c65a534095)
+
+![image (1)](https://github.com/user-attachments/assets/8e963258-7d1e-4c93-8cd4-6abbebb58413)
 
 
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3f690236-03bd-47db-ac0f-28b089483950/7e7db52e-4ebf-471c-95ad-ec6b9ff7a17c/image.png)
