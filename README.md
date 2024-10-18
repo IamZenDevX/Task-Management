@@ -87,7 +87,8 @@ The platform will require a relational database to manage User And Tasks . Below
 
 
 
-<a href="https://www.zendevx.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6e33cc31-3d77-4a00-b263-659f5ee4e658" alt="ZenDevX" height="500" width="500" /></a>
+<a href="https://www.zendevx.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7dd7220f-e83c-4490-9ac2-beab3bcf8c35" alt="ZenDevX" height="500" width="500" /></a>
+
 
 
 # **🐦 Connect with me:**
