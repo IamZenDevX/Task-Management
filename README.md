@@ -85,7 +85,7 @@ The platform will require a relational database to manage User And Tasks . Below
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/ashutosh2506" target="blank"><img align="center" src="![LinkedIn_icon_circle svg](https://github.com/user-attachments/assets/0a0548a9-5963-4ade-b1ae-19f1d2ed6c4c)" alt="ashutosh2506" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashutosh2506" target="blank"><img align="center" src="https://th.bing.com/th/id/R.14f8d0d8ea255a03471032d79087fdf0?rik=Jcph23UZL08iCA&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2017%2f03%2fColor-of-the-LinkedIn-Logo.jpg&ehk=hT5Ibkg%2fFPa%2f7TPm%2fs2TP8Fxdd7ySQQBuZmn88xh5j0%3d&risl=&pid=ImgRaw&r=0" alt="ashutosh2506" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ash250604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ash250604" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ashutoshrajput_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashutoshrajput_" height="30" width="40" /></a>
 </p>
