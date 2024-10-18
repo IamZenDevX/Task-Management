@@ -29,8 +29,9 @@ This Task Management Project is designed to help users efficiently manage their 
 
 <h2 align="left">Tools Used:</h2>
 
+![Github Images](https://github.com/user-attachments/assets/3f194c71-494c-4df8-8a10-b97bc2b1bcef)
 
-![Tecnologies github images](https://github.com/user-attachments/assets/8fd191b9-0882-43b5-ae2a-c2023a2a0c1e)
+
 
 
 <h2 align="left">Testing Tools Used:</h2>
@@ -81,6 +82,7 @@ The platform will require a relational database to manage User And Tasks . Below
 # **🔗 Links**
 
 [**Checkout the  Demo Video**](https://www.notion.so/NodeJS-Task-Management-c766d777f45f4ef3a850a8ea07e598ee?pvs=21) 
+
 
 # **🐦 Connect with me:**
          
