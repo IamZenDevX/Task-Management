@@ -84,7 +84,8 @@ The platform will require a relational database to manage User And Tasks . Below
          
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashutosh2506" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon_circle.svg&psig=AOvVaw19fDpbQgFQpI7fCbTH_Xat&ust=1729331397300000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCckM_Tl4kDFQAAAAAdAAAAABAJ" alt="ashutosh2506" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/ashutosh2506" target="blank"><img align="center" src="![LinkedIn_icon_circle svg](https://github.com/user-attachments/assets/0a0548a9-5963-4ade-b1ae-19f1d2ed6c4c)" alt="ashutosh2506" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ash250604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ash250604" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ashutoshrajput_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashutoshrajput_" height="30" width="40" /></a>
 </p>
