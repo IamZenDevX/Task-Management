@@ -91,8 +91,6 @@ The platform will require a relational database to manage User And Tasks . Below
 </p>
 
 
-          
-           YouTube
 
 I hope you like the project. Thanks for reading :)
 
