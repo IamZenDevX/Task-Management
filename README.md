@@ -1,11 +1,11 @@
 # Task-Management
 
-<h2 align="left">Introduction</h2>
+<h2 align="left">Introduction:</h2>
 
 This Task Management Project is designed to help users efficiently manage their tasks and stay organized. The system provides a streamlined interface where users can easily view, create, update, and delete tasks, making it a simple yet powerful tool for tracking progress and staying on top of daily activities.
 
 
-<h2 align="left">Key Features</h2>
+<h2 align="left">Key Features:</h2>
 
 
 - **User Management**: Users can be created, updated, viewed, and deleted, allowing for complete control over user profiles and their associated data.
