@@ -15,18 +15,16 @@ This Task Management Project is designed to help users efficiently manage their 
 
 ## **Available API:**
 
-| **Name** | **HTTP Method** | **Endpoint** | **Requirements** |
-| --- | --- | --- | --- |
-| **Register User** | POST | http://localhost:4000/user/registration | Request Body: email`: string, password: string` |
-| **Login User** | POST | http://localhost:3000/user/login | Request Body: email`: string, password: string` |
-| **List User by ID** | GET | http://localhost:3000/user/getuser/Id/:Id | Request Params: `id:string` |
-| **Delete User by ID** | DELETE | http://localhost:3000/user/deleteuser/id/:id | Request Params: `id:string` |
-| Update User by ID | PUT | http://localhost:3000/user/putuser/Id/:Id | Request Params: `id:string`                                      Request Body: email`: string, password: string` |
-| Create a Task | POST | http://localhost:3000/task/createtask | Request Body: Title`: string, Description: string,`Status:string,Created_By:UserID,Update_By:UserID |
-| Update Task | PUT | http://localhost:3000/task/updatetask/ID/:ID | Request Params:  `id:string`                                         Request Body: Title`:string, Description:string,`Status:string,Update_By:UserID |
-| Delete Task | DELETE | http://localhost:3000/task/deletetask/id/:id | Request Params:  `id:string`   |
-| Get Task By UserID | GET | http://localhost:3000/task/gettask/UserID/:UserID | Request Params:  userid`:string`   |
-
+Name	HTTP Method	Endpoint	Requirements
+Register User	POST	http://localhost:4000/user/registration	Request Body: email: string, password: string
+Login User	POST	http://localhost:3000/user/login	Request Body: email: string, password: string
+List User by ID	GET	http://localhost:3000/user/getuser/Id/:Id	Request Params: id:string
+Delete User by ID	DELETE	http://localhost:3000/user/deleteuser/id/:id	Request Params: id:string
+Update User by ID	PUT	http://localhost:3000/user/putuser/Id/:Id	Request Params: id:string                                      Request Body: email: string, password: string
+Create a Task	POST	http://localhost:3000/task/createtask	Request Body: Title: string, Description: string,Status:string,Created_By:UserID,Update_By:UserID
+Update Task	PUT	http://localhost:3000/task/updatetask/ID/:ID	Request Params:  id:string                                         Request Body: Title:string, Description:string,Status:string,Update_By:UserID
+Delete Task	DELETE	http://localhost:3000/task/deletetask/id/:id	Request Params:  id:string  
+Get Task By UserID	GET	http://localhost:3000/task/gettask/UserID/:UserID	Request Params:  userid:string  
 <h2 align="left">Tools Used:</h2>
 
 ![Zendevx Technology](https://github.com/user-attachments/assets/dcfc6f0a-c54d-499d-bc54-beddc83e2c53)
