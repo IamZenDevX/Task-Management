@@ -29,8 +29,7 @@ This Task Management Project is designed to help users efficiently manage their 
 
 <h2 align="left">Tools Used:</h2>
 
-![Github Images](https://github.com/user-attachments/assets/6682065d-26dd-4d3f-81e1-5b4952a0715b)
-
+![Zendevx Technology](https://github.com/user-attachments/assets/dcfc6f0a-c54d-499d-bc54-beddc83e2c53)
 
 
 <h2 align="left">Testing Tools Used:</h2>
