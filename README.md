@@ -6,7 +6,7 @@ This Task Management Project is designed to help users efficiently manage their 
 
 
 <h2 align="left">Key Features</h2>
-<li>User Management: Users can be created, updated, viewed, and deleted, allowing for complete control over user profiles and their associated data.</li></br>
+<li>User Management: Users can be created, updated, viewed, and deleted, allowing for complete control over user profiles and their data.</li></br>
 <li>User Authentication: Users must log in with valid credentials to access the task management system.</li></br>
 <li>View Tasks: Users can see a list of all their tasks in one place.</li></br>
 <li>Create Tasks: Users can add new tasks with details like title, description, and status.</li></br>
