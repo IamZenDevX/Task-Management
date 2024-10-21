@@ -6,7 +6,7 @@ This Task Management Project is designed to help users efficiently manage their 
 
 
 <h2 align="left">Key Features</h2>
-## Key Features:
+
 
 - **User Management**: Users can be created, updated, viewed, and deleted, allowing for complete control over user profiles and their associated data.
 - **User Authentication**: Users must log in with valid credentials to access the task management system.
