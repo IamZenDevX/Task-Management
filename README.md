@@ -51,7 +51,7 @@ This Task Management Project is designed to help users efficiently manage their 
 - express-session
 - express-validator
 - jsonwebtoken
-- mongoos
+- mongoose
 - nodemon
 - validator
 
