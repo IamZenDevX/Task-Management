@@ -1,10 +1,10 @@
 # Task-Management
-# **Introduction:**
+<h2 align="left">Introduction</h2>
 
 This Task Management Project is designed to help users efficiently manage their tasks and stay organized. The system provides a streamlined interface where users can easily view, create, update, and delete tasks, making it a simple yet powerful tool for tracking progress and staying on top of daily activities.
 
-## Key Features:
 
+<h2 align="left">Key Features:</h2>
 - **User Management**: Users can be created, updated, viewed, and deleted, allowing for complete control over user profiles and their associated data.
 - **User Authentication**: Users must log in with valid credentials to access the task management system.
 - **View Tasks**: Users can see a list of all their tasks in one place.
@@ -13,20 +13,21 @@ This Task Management Project is designed to help users efficiently manage their 
 - **Delete Tasks**: Users can remove tasks they no longer need.
 - **Task Status**: Each task can be marked as "Open," "In Progress," "Complete," or "Cancelled."
 
-## **Available API:**
+<h2 align="left">AVAILABLE API:</h2>
 
-Name	HTTP Method	Endpoint	Requirements
-Register User	POST	http://localhost:4000/user/registration	Request Body: email: string, password: string
-Login User	POST	http://localhost:3000/user/login	Request Body: email: string, password: string
-List User by ID	GET	http://localhost:3000/user/getuser/Id/:Id	Request Params: id:string
-Delete User by ID	DELETE	http://localhost:3000/user/deleteuser/id/:id	Request Params: id:string
-Update User by ID	PUT	http://localhost:3000/user/putuser/Id/:Id	Request Params: id:string                                      Request Body: email: string, password: string
-Create a Task	POST	http://localhost:3000/task/createtask	Request Body: Title: string, Description: string,Status:string,Created_By:UserID,Update_By:UserID
-Update Task	PUT	http://localhost:3000/task/updatetask/ID/:ID	Request Params:  id:string                                         Request Body: Title:string, Description:string,Status:string,Update_By:UserID
-Delete Task	DELETE	http://localhost:3000/task/deletetask/id/:id	Request Params:  id:string  
-Get Task By UserID	GET	http://localhost:3000/task/gettask/UserID/:UserID	Request Params:  userid:string  
+| **Name** | **HTTP Method** | **Endpoint** | **Requirements** |
+| --- | --- | --- | --- |
+| **Register User** | POST | http://localhost:4000/user/registration | Request Body: email`: string, password: string` |
+| **Login User** | POST | http://localhost:3000/user/login | Request Body: email`: string, password: string` |
+| **List User by ID** | GET | http://localhost:3000/user/getuser/Id/:Id | Request Params: `id:string` |
+| **Delete User by ID** | DELETE | http://localhost:3000/user/deleteuser/id/:id | Request Params: `id:string` |
+| Update User by ID | PUT | http://localhost:3000/user/putuser/Id/:Id | Request Params: `id:string`                                      Request Body: email`: string, password: string` |
+| Create a Task | POST | http://localhost:3000/task/createtask | Request Body: Title`: string, Description: string,`Status:string,Created_By:UserID,Update_By:UserID |
+| Update Task | PUT | http://localhost:3000/task/updatetask/ID/:ID | Request Params:  `id:string`                                         Request Body: Title`:string, Description:string,`Status:string,Update_By:UserID |
+| Delete Task | DELETE | http://localhost:3000/task/deletetask/id/:id | Request Params:  `id:string`   |
+| Get Task By UserID | GET | http://localhost:3000/task/gettask/UserID/:UserID | Request Params:  userid`:string`   |
+
 <h2 align="left">Tools Used:</h2>
-
 ![Zendevx Technology](https://github.com/user-attachments/assets/dcfc6f0a-c54d-499d-bc54-beddc83e2c53)
 
 
