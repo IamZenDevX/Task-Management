@@ -82,7 +82,7 @@ The platform will require a relational database to manage User And Tasks . Below
 | created_by | Ref. Object → Users |
 | update_by | Ref. Object → Users |
 
-<h2 align="left">🔗 Links</h2>
+<h2 align="left">🔗 Video Links</h2>
 
 [**Checkout the  Development Video Using ZenDevX**](https://www.notion.so/NodeJS-Task-Management-c766d777f45f4ef3a850a8ea07e598ee?pvs=21) 
 
