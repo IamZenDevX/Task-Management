@@ -12,7 +12,7 @@ This Task Management Project is designed to help users efficiently manage their 
 - **User Authentication**: Users must log in with valid credentials to access the task management system.
 - **View Tasks**: Users can see a list of all their tasks in one place.
 - **Create Tasks**: Users can add new tasks with details like title, description, and status.
-- **Update Tasks**: Users can edit tasks to update the title, description, status,update_by,update_at
+- **Update Tasks**: Users can edit tasks to update the title, description, status,update_by,update_at.
 - **Delete Tasks**: Users can remove tasks they no longer need.
 - **Task Status**: Each task can be marked as "Open," "In Progress," "Complete," or "Cancelled."
 
