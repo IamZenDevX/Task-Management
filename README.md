@@ -5,13 +5,13 @@ This Task Management Project is designed to help users efficiently manage their 
 
 
 <h2 align="left">Key Features:</h2>
-- **User Management**: Users can be created, updated, viewed, and deleted, allowing for complete control over user profiles and their associated data.
-- **User Authentication**: Users must log in with valid credentials to access the task management system.
-- **View Tasks**: Users can see a list of all their tasks in one place.
-- **Create Tasks**: Users can add new tasks with details like title, description, and status.
-- **Update Tasks**: Users can edit tasks to update the title, description, status,update_by,update_at
-- **Delete Tasks**: Users can remove tasks they no longer need.
-- **Task Status**: Each task can be marked as "Open," "In Progress," "Complete," or "Cancelled."
+- User Management: Users can be created, updated, viewed, and deleted, allowing for complete control over user profiles and their associated data.
+- User Authentication: Users must log in with valid credentials to access the task management system.
+- View Tasks: Users can see a list of all their tasks in one place.
+- Create Tasks: Users can add new tasks with details like title, description, and status.
+- Update Tasks: Users can edit tasks to update the title, description, status,update_by,update_at
+- Delete Tasks: Users can remove tasks they no longer need.
+- Task Status: Each task can be marked as "Open," "In Progress," "Complete," or "Cancelled."
 
 <h2 align="left">AVAILABLE API:</h2>
 
