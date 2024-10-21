@@ -1,3 +1,5 @@
+.gitattributes
+*.html linguist-detectable=false
 # Task-Management
 # **Introduction:**
 
