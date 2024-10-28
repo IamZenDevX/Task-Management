@@ -2,20 +2,17 @@
 
 <h2 align="left">Introduction:</h2>
 
-This Task Management Project is designed to help users efficiently manage their tasks and stay organized. The system provides a streamlined interface where users can easily view, create, update, and delete tasks, making it a simple yet powerful tool for tracking progress and staying on top of daily activities.
-
+This Task Management Project is aimed to help users to stay neat and properly manage their tasks. Simple yet efficient for monitoring progress and maintaining on top of daily operations, the system provides a simple interface where users may quickly observe, add, alter, and remove tasks.
 
 <h2 align="left">Key Features:</h2>
 
-
-- **User Management**: Users can be created, updated, viewed, and deleted, allowing for complete control over user profiles and their associated data.
-- **User Authentication**: Users must log in with valid credentials to access the task management system.
-- **View Tasks**: Users can see a list of all their tasks in one place.
-- **Create Tasks**: Users can add new tasks with details like title, description, and status.
-- **Update Tasks**: Users can edit tasks to update the title, description, status,update_by,update_at.
-- **Delete Tasks**: Users can remove tasks they no longer need.
-- **Task Status**: Each task can be marked as "Open," "In Progress," "Complete," or "Cancelled."
-
+- **User Management**: Users can be created, altered, seen, and deleted, therefore granting complete control over user profiles and the associated information.
+- **User Authentication:**  Task management system users have to log in using current credentials.
+- **View Tasks**: View Tasks: Users could view all of their assignments from one place.
+- **Create Tasks**: Users can create new tasks containing specifics on title, description, and status.
+- **Update Tasks**: Users may adjust jobs to affect the title, description, status, update_by, update_at.
+- **Delete Tasks**: Jobs users no longer need can be deleted.
+- **Task Status**: Every assignment can be categorized as "Open," "In Progress," "Complete," "Cancelled."
 <h2 align="left">AVAILABLE API:</h2>
 
 | **Name** | **HTTP Method** | **Endpoint** | **Requirements** |
