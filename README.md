@@ -29,7 +29,7 @@ This Task Management Project is aimed to help users to stay neat and properly ma
 
 <h2 align="left">Tools Used:</h2>
 
-![Untitled design (19)](https://github.com/user-attachments/assets/42d1f0c1-0230-4054-aa08-8e7b5d6dc46e)
+![Zendevx Technology](https://github.com/user-attachments/assets/36c979fe-929e-44a4-8958-9c15dc466e35)
 
 
 
